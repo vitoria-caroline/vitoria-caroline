@@ -1,15 +1,4 @@
-### Hi there 👋
+👋 Olá
 
-<!--
-**vitoria-caroline/vitoria-caroline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-   
-- 🔭 I’m currently working na TecnoSpeed como Aspira
-- 🌱 I’m currently learning  html, css, javascript, typespript e futuramente delphi
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou Vitoria 
+Trabalho atualmente com a TecnoSpeed
